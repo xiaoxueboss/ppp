@@ -1,2 +1,5 @@
 # > safebrowsing
 DOMAIN-KEYWORD,safebrowsing
+
+# > baidu
+DOMAIN-KEYWORD,baidu
